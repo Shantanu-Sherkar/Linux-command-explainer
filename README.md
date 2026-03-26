@@ -208,3 +208,17 @@ MIT Licence — free to use, modify, and distribute.
 - [ ] Suggest safer command alternatives
 - [ ] Auto-detect destructive shell scripts
 - [ ] PyQt / GTK UI backends
+
+---
+
+## 🧠 How It Works (Quick Overview)
+
+1. The app takes a Linux command as input  
+2. It splits the command into tokens using `shlex`  
+3. Each token is matched with a local database of commands and flags  
+4. The full command is checked against risk patterns  
+5. Results are displayed with explanations and risk levels
+
+## Contributors
+
+1. Tanishka Patil
