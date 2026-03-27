@@ -218,7 +218,9 @@ MIT Licence — free to use, modify, and distribute.
 3. Each token is matched with a local database of commands and flags  
 4. The full command is checked against risk patterns  
 5. Results are displayed with explanations and risk levels
-
+## Breakdown 
+![Breakdown Screenshot](breakdown.jpeg)
 ## Contributors
 
 1. Tanishka Patil
+2. Radha Jadhav 
